@@ -1,6 +1,6 @@
 CreateThread(function ()
     while true do
-        Wait(0)
+        Wait(800)
         local ped = PlayerPedId()
         if IsPedInAnyVehicle(ped) then
             local vehicle = GetVehiclePedIsIn(ped)

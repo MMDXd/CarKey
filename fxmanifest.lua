@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-games 'gta5'
+game 'gta5'
 author 'INNVOX TEAM - XdMMD'
 description 'CarKey System For OX Inventory!'
 server_script 'server/*.lua'
